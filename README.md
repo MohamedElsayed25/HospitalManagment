@@ -16,7 +16,6 @@ Urgent patients are added to the front of the queue; regular ones go to the end.
 C++,
 Console I/O
 
-
 🧪 Sample Input/Output
 pgsql
 Copy
@@ -43,7 +42,3 @@ Maximum of 5 patients per specialization.
 Urgent patients (status = 1) are added to the front; regular patients (status = 0) are added to the end.
 
 The system loops until you choose option 4) Exit.
-
-
-
-
